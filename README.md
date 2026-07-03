@@ -19,7 +19,7 @@ The Android client communicates with the Spring Boot backend via HTTP requests u
 
 ---
 
-## 📱 Frontend Features (Android)
+## 📱 Frontend Features (Android) (partially vibecoded)
 
 * **Modern Declarative UI:** Fully built with Jetpack Compose, featuring custom themes and dynamic state-driven layouts (`ToDoScreen.kt`).
 * **Optimistic UI Updates:** State changes (like checking off a task) are reflected in the UI instantly for a snappy experience. The API call is processed asynchronously in the background via Kotlin Coroutines.
